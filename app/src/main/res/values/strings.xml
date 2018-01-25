@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Web Viewer</string>
+    <string name="website_textView">Please Choose A Website</string>
+    <string name="ucsd_textView">UCSD Extension</string>
+    <string name="google_textView">Google</string>
+    <string name="button_text">Go</string>
+</resources>
